@@ -1,0 +1,6 @@
+# Example analysis remediation config
+methods:
+   - pattern: xss2Handler
+  #   tags:
+  #     - key: category
+  #       value: Sensitive Data Leak
