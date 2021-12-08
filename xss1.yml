@@ -1,0 +1,4 @@
+# Example analysis remediation config
+methods:
+   - pattern: xss1Handler
+  
